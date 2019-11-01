@@ -124,6 +124,15 @@ header h5{
     color: #b2b2b2;
 }
 
+lh {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.col h3 {
+text-align: center;
+}
+
 .about,
 .folio,
 .contact{
@@ -199,15 +208,15 @@ header h5{
 }
 
 .node{
-    width: 10%;
+    width: 50%;
 }
 
 .angular{
-    width: 5%;
+    width: 45%;
 }
 
 .vue{
-    width: 5%;
+    width: 30%;
 }
 
 .cordova{
@@ -311,6 +320,15 @@ input[type="submit"]:hover{
 .top-bar a:hover{
     transform: scale(1.1);
     color: #009688;
+}
+#contact {
+    text-align: center;
+}
+.socialM{
+    color: white;
+}
+.socialM:hover{
+   color: gray;
 }
 
 .bottom-bar{
