@@ -180,7 +180,7 @@ text-align: center;
 }
 
 .js{
-    width: 80%;
+    width: 70%;
 }
 
 .html{
@@ -204,11 +204,11 @@ text-align: center;
 }
 
 .sql{
-    width: 70%;
+    width: 60%;
 }
 
 .node{
-    width: 50%;
+    width: 30%;
 }
 
 .angular{
@@ -221,6 +221,14 @@ text-align: center;
 
 .cordova{
     width: 50%;
+}
+
+.wordpress{
+    width: 30%;
+}
+
+.shopify{
+    width: 30%;
 }
 
 .folio h3{
